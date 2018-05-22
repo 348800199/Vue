@@ -1,4 +1,4 @@
-1.router 嵌套
+1.router 嵌套        
     router.js 里面 children 里面
     redirect 重定向
     在html里面<router-view></router-view> 显示
