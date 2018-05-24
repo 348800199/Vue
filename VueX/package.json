@@ -2,7 +2,11 @@
   "name": "vuex",
   "version": "1.0.0",
   "description": "A Vue.js project",
+<<<<<<< HEAD
   "author": "vyying2016 <liuyao@vyying.com>",
+=======
+  "author": "yaoliu <348800199@qq.com>",
+>>>>>>> 85b9129f133e43d4c8e5cb3c1bfe3710a49604d6
   "private": true,
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
