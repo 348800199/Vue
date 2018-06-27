@@ -1,12 +1,13 @@
 <template>
   <div class="page">
       布局
-      <Swiper />
+    <button class="" @click="goDetail">跳转布局</button>
+      <!-- <Swiper /> -->
   </div>
 </template>
 
 <script type="text/ecmascript-6">
-import Swiper from "../components/swiper"
+// import Swiper from "../components/swiper"
 export default {
   name: "layout",
   data() {
@@ -38,10 +39,15 @@ export default {
             console.log(error)
 
         });
+    },
+    goDetail(){
+      this.$router.push({
+        name:'detail'
+      })
     }
   },
   components: {
-    Swiper
+    // Swiper
   }
 };
 </script>

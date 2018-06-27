@@ -1,15 +1,22 @@
 <template>
-  <div class="page">
-      底部
+  <div class="container">
+detail2
   </div>
 </template>
 
 <script type="text/ecmascript-6">
 export default {
+  name:'detail2',
   data() {
     return {
 
     }
+  },
+  created() {
+
+  },
+  methods: {
+
   },
   components: {
 
@@ -18,7 +25,4 @@ export default {
 </script>
 
 <style scoped>
-.page{
-  clear: both;
-}
 </style>
