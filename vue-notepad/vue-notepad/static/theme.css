@@ -1,0 +1,239 @@
+.blue header {
+  background: #00b0f0;
+}
+
+.blue .event-tools .tools-btn {
+  border: 1px solid #00b0f0;
+  background: #00b0f0;
+}
+
+.blue .event-tools .tools-btn:hover {
+  background: #08aae5;
+}
+
+.blue .event-add .n-input:focus {
+  border-color: #00b0f0;
+}
+
+.blue .event-add .add-btn {
+  border: 1px solid #00b0f0;
+  background: #00b0f0;
+}
+
+.blue .event-add .add-btn:hover {
+  background: #08aae5;
+}
+
+.blue .event-content .event-tab {
+  background: #00b0f0;
+}
+
+.blue .event-content .event-box .event-list .cancel-btn:hover {
+  border: 1px solid #00b0f0;
+  color: #00b0f0;
+}
+
+.blue .event-all .table-box .edit-input button, .blue .event-all .table-box .event-table button {
+  background: #00b0f0;
+}
+
+.blue .dialog .dialog-btns .sure-btn {
+  border: 1px solid #00b0f0;
+  background: #00b0f0;
+}
+
+.blue .dialog .dialog-btns .sure-btn:hover {
+  background: #08aae5;
+}
+
+.green header {
+  background: #00d1b2;
+}
+
+.green .event-tools .tools-btn {
+  border: 1px solid #00d1b2;
+  background: #00d1b2;
+}
+
+.green .event-tools .tools-btn:hover {
+  background: #18c2a9;
+}
+
+.green .event-add .n-input:focus {
+  border-color: #00d1b2;
+}
+
+.green .event-add .add-btn {
+  border: 1px solid #00d1b2;
+  background: #00d1b2;
+}
+
+.green .event-add .add-btn:hover {
+  background: #18c2a9;
+}
+
+.green .event-content .event-tab {
+  background: #00d1b2;
+}
+
+.green .event-content .event-box .event-list .cancel-btn:hover {
+  border: 1px solid #00d1b2;
+  color: #00d1b2;
+}
+
+.green .event-all .table-box .edit-input button, .green .event-all .table-box .event-table button {
+  background: #00d1b2;
+}
+
+.green .dialog .dialog-btns .sure-btn {
+  border: 1px solid #00d1b2;
+  background: #00d1b2;
+}
+
+.green .dialog .dialog-btns .sure-btn:hover {
+  background: #18c2a9;
+}
+
+.orange header {
+  background: #f4b976;
+}
+
+.orange .event-tools .tools-btn {
+  border: 1px solid #f4b976;
+  background: #f4b976;
+}
+
+.orange .event-tools .tools-btn:hover {
+  background: #e9ae6a;
+}
+
+.orange .event-add .n-input:focus {
+  border-color: #f4b976;
+}
+
+.orange .event-add .add-btn {
+  border: 1px solid #f4b976;
+  background: #f4b976;
+}
+
+.orange .event-add .add-btn:hover {
+  background: #e9ae6a;
+}
+
+.orange .event-content .event-tab {
+  background: #f4b976;
+}
+
+.orange .event-content .event-box .event-list .cancel-btn:hover {
+  border: 1px solid #f4b976;
+  color: #f4b976;
+}
+
+.orange .event-all .table-box .edit-input button, .orange .event-all .table-box .event-table button {
+  background: #f4b976;
+}
+
+.orange .dialog .dialog-btns .sure-btn {
+  border: 1px solid #f4b976;
+  background: #f4b976;
+}
+
+.orange .dialog .dialog-btns .sure-btn:hover {
+  background: #e9ae6a;
+}
+
+.pink header {
+  background: #f39894;
+}
+
+.pink .event-tools .tools-btn {
+  border: 1px solid #f39894;
+  background: #f39894;
+}
+
+.pink .event-tools .tools-btn:hover {
+  background: #d77672;
+}
+
+.pink .event-add .n-input:focus {
+  border-color: #f39894;
+}
+
+.pink .event-add .add-btn {
+  border: 1px solid #f39894;
+  background: #f39894;
+}
+
+.pink .event-add .add-btn:hover {
+  background: #d77672;
+}
+
+.pink .event-content .event-tab {
+  background: #f39894;
+}
+
+.pink .event-content .event-box .event-list .cancel-btn:hover {
+  border: 1px solid #f39894;
+  color: #f39894;
+}
+
+.pink .event-all .table-box .edit-input button, .pink .event-all .table-box .event-table button {
+  background: #f39894;
+}
+
+.pink .dialog .dialog-btns .sure-btn {
+  border: 1px solid #f39894;
+  background: #f39894;
+}
+
+.pink .dialog .dialog-btns .sure-btn:hover {
+  background: #d77672;
+}
+
+.cyan header {
+  background: #26b6be;
+}
+
+.cyan .event-tools .tools-btn {
+  border: 1px solid #26b6be;
+  background: #26b6be;
+}
+
+.cyan .event-tools .tools-btn:hover {
+  background: #1facb4;
+}
+
+.cyan .event-add .n-input:focus {
+  border-color: #26b6be;
+}
+
+.cyan .event-add .add-btn {
+  border: 1px solid #26b6be;
+  background: #26b6be;
+}
+
+.cyan .event-add .add-btn:hover {
+  background: #1facb4;
+}
+
+.cyan .event-content .event-tab {
+  background: #26b6be;
+}
+
+.cyan .event-content .event-box .event-list .cancel-btn:hover {
+  border: 1px solid #26b6be;
+  color: #26b6be;
+}
+
+.cyan .event-all .table-box .edit-input button, .cyan .event-all .table-box .event-table button {
+  background: #26b6be;
+}
+
+.cyan .dialog .dialog-btns .sure-btn {
+  border: 1px solid #26b6be;
+  background: #26b6be;
+}
+
+.cyan .dialog .dialog-btns .sure-btn:hover {
+  background: #1facb4;
+}
