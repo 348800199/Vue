@@ -4,6 +4,10 @@
       <Child :title="msg" @info="infoHand"/>
 {{info}} --来自儿子的参数
     <div>{{ getCount }} --vuex 父亲</div>
+
+    <div>getters:{{addCount}}</div>
+
+    <button @click="mix">减一</button>
   </div>
 </template>
 
@@ -19,11 +23,17 @@ export default {
   methods:{
       infoHand(data){
           this.info=data
+      },
+      mix(){
+        this.$store.dispatch('mixTwo')
       }
   },
   computed:{
       getCount(){
           return this.$store.state.count
+      },
+      addCount(){
+        return this.$store.getters.addOne
       }
 
   },
